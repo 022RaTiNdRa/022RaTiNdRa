@@ -5,13 +5,13 @@
 <br>
 
 ## 😄 About Me
-- 🎓 I am a Software Engineer messing around with backend technologies.
-- 🔭 I am currently working on different personal projects and learning new stuff.
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 🎓 I am a backend-focused developer with a strong interest in system-level and performance-oriented software.
+- 🔭 I am currently working on backend, real-time, and low-level projects to strengthen my fundamentals.
+- 💬 If you have any questions, feedback, or collaboration ideas, feel free to reach out to me!
+
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rawatmanas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Manas Rawat | LinkedIn"/></a>
-  <a href="https://linktr.ee/manasrawat"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Manas Rawat | Linktree"/></a>
+  <a href="https://www.linkedin.com/in/ratindra-parate/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ratindra Parate | LinkedIn"/></a>
 </p>
 
 <br>
