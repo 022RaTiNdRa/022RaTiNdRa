@@ -1,16 +1,86 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/importlogic/importlogic/blob/main/header.svg" alt="my banner"></a>
+</p>
 
-<!--
-**022RaTiNdRa/022RaTiNdRa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## 😄 About Me
+- 🎓 I am a Software Engineer messing around with backend technologies.
+- 🔭 I am currently working on different personal projects and learning new stuff.
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/rawatmanas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Manas Rawat | LinkedIn"/></a>
+  <a href="https://linktr.ee/manasrawat"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Manas Rawat | Linktree"/></a>
+</p>
+
+<br>
+
+## 👨‍💻 My projects
+* [Tagify](https://github.com/importlogic/tagify) - A Windows Application made using <strong>C#</strong> for tagging files with custom tags and searching them on basis of tags.
+* [Quiz Land](https://github.com/importlogic/quiz-land) - A Full Stack Web Application made using <strong>NodeJS</strong>, <strong>HTML</strong> and <strong>CSS</strong> which allows anyone to register as an admin and host their own quizzes on the platform and share link links with the participants to join quizzes.
+* [CF GetRating Browser Extension](https://github.com/importlogic/cf-getrating-extension) - A browser extension made with <strong>JavaScript</strong> for Codeforces which helps users to see the problem rating without enabling problem tags which was not possible before.
+* [Random Tools](https://github.com/importlogic/random-tools) - A Full Stack Web Application made using <strong>NodeJS</strong>, <strong>HTML</strong> and <strong>CSS</strong> having some Random Tools made using JavaScript.
+
+<br>
+
+## 💼 Technical Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,py" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql,sqlite,jquery" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,heroku,vercel,atom,vscode,visualstudio,androidstudio" />
+  </a>
+</p>
+
+<br>
+
+## 📜 Coding Activity
+<!--START_SECTION:waka-->
+
+```txt
+From: 19 November 2025 - To: 19 December 2025
+
+Total Time: 51 hrs 27 mins
+
+Java                       22 hrs 14 mins  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   43.21 %
+JavaScript                 9 hrs 55 mins   ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   19.28 %
+Java Server Pages          7 hrs 29 mins   ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   14.56 %
+INI                        6 hrs 26 mins   ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   12.51 %
+Markdown                   1 hr 29 mins    ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.90 %
+```
+
+<!--END_SECTION:waka-->
+
+<br>
+
+## 🚀 Coding Heatmap
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@importlogic/40a529cf-1471-4bf4-94ed-76ef51816aa1.png" /></a>
+
+<br>
+
+## 📈 GitHub Stats 
+[![Manas’s github stats](https://github-readme-stats.vercel.app/api?username=importlogic&show_icons=true&theme=dark&count_private=true)](https://github.com/importlogic)
+
+<br>
+
+## 👀 Visitors
+<!-- ![Visitors](https://profile-counter.glitch.me/importlogic/count.svg) -->
+![Visitors](https://moe-counter.glitch.me/get/@importlogic?theme=rule34)
