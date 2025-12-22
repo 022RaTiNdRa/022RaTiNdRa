@@ -135,6 +135,12 @@ Markdown                   1 hr 29 mins    ▰▱▱▱▱▱▱▱▱▱▱▱�
       </a>
     </td> -->
     <td align="center" width="20%">
+      <a href="https://022ratindra.github.io/portfolio-website/frontend/" target="_blank">
+        <img src="" height="60" alt="Portfolio"/><br/>
+        <sub><img src="https://img.shields.io/badge/Portfolio-02075D?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio Badge"/></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
       <a href="https://www.instagram.com/220ratindra_parate/" target="_blank">
         <img src="https://github.com/just-surviving/just-surviving/blob/main/image.png?raw=true" height="60" alt="Medium"/><br/>
         <sub><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></sub>
