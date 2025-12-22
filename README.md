@@ -5,9 +5,9 @@
 <br>
 
 ## 😄 About Me
-- 🎓 I am a backend-focused developer with a strong interest in system-level and performance-oriented software.
-- 🔭 I am currently working on backend, real-time, and low-level projects to strengthen my fundamentals.
-- 💬 If you have any questions, feedback, or collaboration ideas, feel free to reach out to me!
+- 🎓💻 Backend-focused developer interested in 🧠 system design, 🌐 networking, 🔁 concurrency, and ⚡ performance optimization.
+- 🔭🛠️ Currently working on ⚙️ backend, 📡 real-time, and 🧩 low-level projects with a focus on 📈 scalability and 🚀 efficiency.
+- 💬🤝 Happy to discuss 💡 ideas, 🧪 projects, or 🤜🤛 collaborations — feel free to 🔗 connect.
 
 
 <p align="center">
