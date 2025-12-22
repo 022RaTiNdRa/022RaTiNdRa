@@ -113,40 +113,34 @@ Markdown                   1 hr 29 mins    ▰▱▱▱▱▱▱▱▱▱▱▱�
     <td align="center" width="20%">
       <a href="mailto:ratindra24@gmail.com" target="_blank">
         <img src="https://img.icons8.com/color/96/gmail-new.png" height="60" alt="Gmail"/><br/>
-        <sub>
-          <img src="https://img.shields.io/badge/Email-ff4c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-        </sub>
+        <sub><img src="https://img.shields.io/badge/Email-ff4c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></sub>
       </a>
     </td>
-
     <td align="center" width="20%">
       <a href="https://www.linkedin.com/in/ratindra-parate/" target="_blank">
         <img src="https://img.icons8.com/color/96/linkedin.png" height="60" alt="LinkedIn"/><br/>
-        <sub>
-          <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-        </sub>
+        <sub><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></sub>
       </a>
     </td>
-
     <td align="center" width="20%">
       <a href="https://github.com/022RaTiNdRa" target="_blank">
         <img src="https://img.icons8.com/ios-filled/100/ffffff/github.png" height="60" alt="GitHub"/><br/>
-        <sub>
-          <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-        </sub>
+        <sub><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></sub>
       </a>
     </td>
-
+    <!--<td align="center" width="20%">
+      <a href="https://wwww.youtube.com" target="_blank">
+        <img src="https://www.abhi nahin hai.com" height="60" alt="Portfolio"/><br/>
+        <sub><img src="https://img.shields.io/badge/Portfolio-02075D?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio Badge"/></sub>
+      </a>
+    </td> -->
     <td align="center" width="20%">
       <a href="https://www.instagram.com/220ratindra_parate/" target="_blank">
-        <img src="https://img.icons8.com/color/96/instagram-new.png" height="60" alt="Instagram"/><br/>
-        <sub>
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-        </sub>
+        <img src="https://github.com/just-surviving/just-surviving/blob/main/image.png?raw=true" height="60" alt="Medium"/><br/>
+        <sub><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></sub>
       </a>
     </td>
   </tr>
 </table>
 
 ---
-
