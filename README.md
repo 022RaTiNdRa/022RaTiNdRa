@@ -16,11 +16,36 @@
 
 <br>
 
-## 👨‍💻 My projects
-* [Tagify](https://github.com/importlogic/tagify) - A Windows Application made using <strong>C#</strong> for tagging files with custom tags and searching them on basis of tags.
-* [Quiz Land](https://github.com/importlogic/quiz-land) - A Full Stack Web Application made using <strong>NodeJS</strong>, <strong>HTML</strong> and <strong>CSS</strong> which allows anyone to register as an admin and host their own quizzes on the platform and share link links with the participants to join quizzes.
-* [CF GetRating Browser Extension](https://github.com/importlogic/cf-getrating-extension) - A browser extension made with <strong>JavaScript</strong> for Codeforces which helps users to see the problem rating without enabling problem tags which was not possible before.
-* [Random Tools](https://github.com/importlogic/random-tools) - A Full Stack Web Application made using <strong>NodeJS</strong>, <strong>HTML</strong> and <strong>CSS</strong> having some Random Tools made using JavaScript.
+## 👨‍💻 My Projects
+
+* 🚀 **TypeFast** – A fast and minimal typing practice web application designed to improve typing speed and accuracy with real-time performance feedback, statistics, and a clean user interface. Built to focus on usability, responsiveness, and user experience.  
+  🛠️ *Tech:* HTML, CSS, JavaScript  
+  🔗 https://github.com/022RaTiNdRa/TypeFast
+
+* 🛒 **QuickBasket** – A full-stack e-commerce web application featuring user authentication, product management, shopping cart, and order handling. Designed with scalability and real-world e-commerce workflows in mind.  
+  🛠️ *Tech:* MERN Stack (MongoDB, Express.js, React, Node.js)  
+  🔗 https://github.com/022RaTiNdRa/QuickBasket
+
+* 🌐 **Portfolio Website** – A personal portfolio website showcasing projects, technical skills, and professional background with a modern, responsive design aimed at recruiters and collaborators.  
+  🛠️ *Tech:* HTML, CSS, JavaScript, React  
+  🔗 https://github.com/022RaTiNdRa/portfolio-website
+
+* 🎓 **Unified University Portal** – A centralized university management portal designed to handle student, faculty, and administrative workflows such as profiles, dashboards, and information access through a single platform.  
+  🛠️ *Tech:* Web Technologies, Backend APIs  
+  🔗 https://github.com/022RaTiNdRa/unified-uni-portal
+
+* ⚙️ **Multithreaded Web Server** – A high-performance web server implemented using multithreading concepts to efficiently handle multiple client connections concurrently, focusing on networking fundamentals and system-level optimization.  
+  🛠️ *Tech:* C / C++, TCP/IP, Multithreading  
+  🔗 https://github.com/022RaTiNdRa/Multithreaded-Web-Server
+
+* 📡 **WebRTC SFU Server** – A scalable Selective Forwarding Unit (SFU) server for real-time audio/video communication, designed to efficiently forward media streams between multiple peers with low latency.  
+  🛠️ *Tech:* Node.js, WebRTC, Socket.IO  
+  🔗 https://github.com/022RaTiNdRa/WebRTC-SFU-server
+
+* 🌦️ **Weather Dashboard** – A responsive weather dashboard that fetches and displays real-time weather data using public APIs, providing location-based forecasts and a clean visual interface.  
+  🛠️ *Tech:* JavaScript, APIs, HTML, CSS  
+  🔗 https://github.com/022RaTiNdRa/weather-dashboard
+
 
 <br>
 
@@ -81,6 +106,47 @@ Markdown                   1 hr 29 mins    ▰▱▱▱▱▱▱▱▱▱▱▱�
 
 <br>
 
-## 👀 Visitors
-<!-- ![Visitors](https://profile-counter.glitch.me/importlogic/count.svg) -->
-![Visitors](https://moe-counter.glitch.me/get/@importlogic?theme=rule34)
+## 🌐 Connect with Me  
+
+<table width="100%" align="center">
+  <tr>
+    <td align="center" width="20%">
+      <a href="mailto:ratindra24@gmail.com" target="_blank">
+        <img src="https://img.icons8.com/color/96/gmail-new.png" height="60" alt="Gmail"/><br/>
+        <sub>
+          <img src="https://img.shields.io/badge/Email-ff4c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+        </sub>
+      </a>
+    </td>
+
+    <td align="center" width="20%">
+      <a href="https://www.linkedin.com/in/ratindra-parate/" target="_blank">
+        <img src="https://img.icons8.com/color/96/linkedin.png" height="60" alt="LinkedIn"/><br/>
+        <sub>
+          <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </sub>
+      </a>
+    </td>
+
+    <td align="center" width="20%">
+      <a href="https://github.com/022RaTiNdRa" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/100/ffffff/github.png" height="60" alt="GitHub"/><br/>
+        <sub>
+          <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+        </sub>
+      </a>
+    </td>
+
+    <td align="center" width="20%">
+      <a href="https://www.instagram.com/220ratindra_parate/" target="_blank">
+        <img src="https://img.icons8.com/color/96/instagram-new.png" height="60" alt="Instagram"/><br/>
+        <sub>
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
