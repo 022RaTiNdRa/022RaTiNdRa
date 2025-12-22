@@ -18,33 +18,34 @@
 
 ## 👨‍💻 My Projects
 
-* 🚀 **TypeFast** – A fast and minimal typing practice web application designed to improve typing speed and accuracy with real-time performance feedback, statistics, and a clean user interface. Built to focus on usability, responsiveness, and user experience.  
+* **TypeFast** – A fast and minimal typing practice web application designed to improve typing speed ⏱️ and accuracy 🎯 through real-time performance feedback 🔄, detailed statistics 📊, and a clean, responsive user interface ✨ focused on usability and experience.  
   🛠️ *Tech:* HTML, CSS, JavaScript  
   🔗 https://github.com/022RaTiNdRa/TypeFast
 
-* 🛒 **QuickBasket** – A full-stack e-commerce web application featuring user authentication, product management, shopping cart, and order handling. Designed with scalability and real-world e-commerce workflows in mind.  
+* **QuickBasket** – A full-stack e-commerce web application featuring secure user authentication 🔐, structured product management 🗂️, shopping cart 🛍️ handling, and order processing workflows 📑, built with scalability 📈 and real-world business logic 🧠 in mind.  
   🛠️ *Tech:* MERN Stack (MongoDB, Express.js, React, Node.js)  
   🔗 https://github.com/022RaTiNdRa/QuickBasket
 
-* 🌐 **Portfolio Website** – A personal portfolio website showcasing projects, technical skills, and professional background with a modern, responsive design aimed at recruiters and collaborators.  
+* **Portfolio Website** – A personal portfolio website showcasing projects 🚀, technical skills 🧰, and professional background 👨‍💻, implemented with a modern layout 🎨 and a fully responsive design 📱 aimed at recruiters and collaborators 🤝.  
   🛠️ *Tech:* HTML, CSS, JavaScript, React  
   🔗 https://github.com/022RaTiNdRa/portfolio-website
 
-* 🎓 **Unified University Portal** – A centralized university management portal designed to handle student, faculty, and administrative workflows such as profiles, dashboards, and information access through a single platform.  
+* **Unified University Portal** – A centralized university management platform designed to streamline student 👨‍🎓, faculty 👩‍🏫, and administrative workflows ⚙️ through unified dashboards 📊, role-based profiles 👤, and backend-driven APIs 🔗.  
   🛠️ *Tech:* Web Technologies, Backend APIs  
   🔗 https://github.com/022RaTiNdRa/unified-uni-portal
 
-* ⚙️ **Multithreaded Web Server** – A high-performance web server implemented using multithreading concepts to efficiently handle multiple client connections concurrently, focusing on networking fundamentals and system-level optimization.  
+* **Multithreaded Web Server** – A high-performance web server engineered to handle multiple concurrent client connections 🔁 using multithreading 🧵, with a strong focus on networking fundamentals 🌐, efficient resource utilization 🧠, and system-level optimization ⚡.  
   🛠️ *Tech:* C / C++, TCP/IP, Multithreading  
   🔗 https://github.com/022RaTiNdRa/Multithreaded-Web-Server
 
-* 📡 **WebRTC SFU Server** – A scalable Selective Forwarding Unit (SFU) server for real-time audio/video communication, designed to efficiently forward media streams between multiple peers with low latency.  
+* **WebRTC SFU Server** – A scalable Selective Forwarding Unit (SFU) server for real-time audio/video communication 🎥📡, optimized for low latency ⚡, efficient media stream routing 🔄, and multi-peer scalability 📈.  
   🛠️ *Tech:* Node.js, WebRTC, Socket.IO  
   🔗 https://github.com/022RaTiNdRa/WebRTC-SFU-server
 
-* 🌦️ **Weather Dashboard** – A responsive weather dashboard that fetches and displays real-time weather data using public APIs, providing location-based forecasts and a clean visual interface.  
+* **Weather Dashboard** – A responsive weather dashboard that fetches and displays real-time 🌍, location-based weather data ☁️🌡️ using public APIs 🔗, presented through a clean and intuitive visual interface 📊.  
   🛠️ *Tech:* JavaScript, APIs, HTML, CSS  
   🔗 https://github.com/022RaTiNdRa/weather-dashboard
+
 
 
 <br>
@@ -123,7 +124,7 @@ Markdown                   1 hr 29 mins    ▰▱▱▱▱▱▱▱▱▱▱▱�
       </a>
     </td>
     <td align="center" width="20%">
-      <a href="https://github.com/022RaTiNdRa" target="_blank">
+      <a href="https://github.com/022RaTiNdRa/" target="_blank">
         <img src="https://img.icons8.com/ios-filled/100/ffffff/github.png" height="60" alt="GitHub"/><br/>
         <sub><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></sub>
       </a>
@@ -134,7 +135,6 @@ Markdown                   1 hr 29 mins    ▰▱▱▱▱▱▱▱▱▱▱▱�
         <sub><img src="https://img.shields.io/badge/Portfolio-02075D?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio Badge"/></sub>
       </a>
     </td> -->
-    a
     <td align="center" width="20%">
       <a href="https://www.instagram.com/220ratindra_parate/" target="_blank">
         <img src="https://github.com/just-surviving/just-surviving/blob/main/image.png?raw=true" height="60" alt="Medium"/><br/>
