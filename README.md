@@ -116,7 +116,7 @@ Markdown                   1 hr 29 mins    ▰▱▱▱▱▱▱▱▱▱▱▱�
 <br>
 
 ## 📈 GitHub Stats 
-[![Manas’s github stats](https://github-readme-stats.vercel.app/api?username=importlogic&show_icons=true&theme=dark&count_private=true)](https://github.com/importlogic)
+[![Ratindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=022RaTiNdRa&show_icons=true&theme=dark&count_private=true)](https://github.com/022RaTiNdRa)
 
 <br>
 
