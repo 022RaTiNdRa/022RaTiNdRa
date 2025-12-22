@@ -147,5 +147,5 @@ Markdown                   1 hr 29 mins    ▰▱▱▱▱▱▱▱▱▱▱▱�
 
 
 <p align="center">
-<img src="">
+<img src="https://github.com/022RaTiNdRa/022RaTiNdRa/blob/main/footer.jpg">
 </p>
