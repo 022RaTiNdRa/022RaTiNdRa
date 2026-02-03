@@ -16,53 +16,6 @@
 
 <br>
 
-## 👨‍💻 My Projects
-
-* **TypeFast** – A fast and minimal typing practice web application designed to improve typing speed ⏱️ and accuracy 🎯 through real-time performance feedback 🔄, detailed statistics 📊, and a clean, responsive user interface ✨ focused on usability and experience.  
-  🛠️ *Tech:* HTML, CSS, JavaScript  
-  <a href="https://github.com/022RaTiNdRa/TypeFast">
-    <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
-* **QuickBasket** – A full-stack e-commerce web application featuring secure user authentication 🔐, structured product management 🗂️, shopping cart 🛍️ handling, and order processing workflows 📑, built with scalability 📈 and real-world business logic 🧠 in mind.  
-  🛠️ *Tech:* MERN Stack (MongoDB, Express.js, React, Node.js)  
-  <a href="https://github.com/022RaTiNdRa/QuickBasket">
-    <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
-* **Portfolio Website** – A personal portfolio website showcasing projects 🚀, technical skills 🧰, and professional background 👨‍💻, implemented with a modern layout 🎨 and a fully responsive design 📱 aimed at recruiters and collaborators 🤝.  
-  🛠️ *Tech:* HTML, CSS, JavaScript, React  
-  <a href="https://github.com/022RaTiNdRa/portfolio-website">
-    <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
-* **Unified University Portal** – A centralized university management platform designed to streamline student 👨‍🎓, faculty 👩‍🏫, and administrative workflows ⚙️ through unified dashboards 📊, role-based profiles 👤, and backend-driven APIs 🔗.  
-  🛠️ *Tech:* Web Technologies, Backend APIs  
-  <a href="https://github.com/022RaTiNdRa/unified-uni-portal">
-    <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
-* **Multithreaded Web Server** – A high-performance web server engineered to handle multiple concurrent client connections 🔁 using multithreading 🧵, with a strong focus on networking fundamentals 🌐, efficient resource utilization 🧠, and system-level optimization ⚡.  
-  🛠️ *Tech:* C / C++, TCP/IP, Multithreading  
-  <a href="https://github.com/022RaTiNdRa/Multithreaded-Web-Server">
-    <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
-* **WebRTC SFU Server** – A scalable Selective Forwarding Unit (SFU) server for real-time audio/video communication 🎥📡, optimized for low latency ⚡, efficient media stream routing 🔄, and multi-peer scalability 📈.  
-  🛠️ *Tech:* Node.js, WebRTC, Socket.IO  
-  <a href="https://github.com/022RaTiNdRa/WebRTC-SFU-server">
-    <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
-* **Weather Dashboard** – A responsive weather dashboard that fetches and displays real-time 🌍, location-based weather data ☁️🌡️ using public APIs 🔗, presented through a clean and intuitive visual interface 📊.  
-  🛠️ *Tech:* JavaScript, APIs, HTML, CSS  
-  <a href="https://github.com/022RaTiNdRa/weather-dashboard">
-    <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
-
-<br>
-
 ## 💼 Technical Skills
 
 <p align="center">
